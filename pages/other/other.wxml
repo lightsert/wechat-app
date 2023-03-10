@@ -1,0 +1,7 @@
+<import src="/templace/Mytemplace/Mytemplace.wxml"/>
+
+<view class="otherContainer">
+     <!-- 测试模板 -->
+     <view>测试使用模板</view>
+     <template is="myTmp"/>
+</view>
